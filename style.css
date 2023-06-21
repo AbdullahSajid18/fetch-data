@@ -1,0 +1,28 @@
+.container{
+    /* border: 2px solid green; */
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap !important   ;
+}
+
+.card-title {
+    font-size: 15px;
+}
+.main{
+   
+    width: 200px;
+    height: fit-content;
+    margin: 20px;
+    font-size: 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+
+}
+
+
+.main img{
+    height: 200px;
+    width: 100%;
+}
